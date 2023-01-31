@@ -4,7 +4,7 @@ Este é o meu portfolio pessoal, onde apresento meus projetos e habilidades em d
 
 ## Sobre mim
 
-Estou cursando Ciência da Computação na UFRR, tenho conhecimento em Python e algum conhecimento em desenvolvimento web (JavaScript, HTML e CSS). Meu plano é ser um desenvolvedor de jogos com amplo conhecimento em linguagens, como C++ e C#.
+Atualmente estou estudando Ciência da Computação na UFRR, com conhecimento em Python e algum conhecimento em desenvolvimento web (JavaScript, HTML e CSS). Além disso, estou ampliando meus conhecimentos em linguagens como C++ e C# para atuar como desenvolvedor de jogos. Estou também dedicado a aprender sobre design de jogos, narrativa, jogabilidade e ferramentas de desenvolvimento, como o Unity ou Unreal Engine, além de desenvolver habilidades em inteligência artificial e trabalho em equipe. Acredito que essas habilidades serão fundamentais para realizar minha paixão por criar jogos incríveis.
 
 ## Projetos
 
