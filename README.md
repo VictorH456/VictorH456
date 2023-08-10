@@ -23,6 +23,8 @@ Você pode entrar em contato comigo através das seguintes plataformas:
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH456&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorH456&show_icons=true&theme=transparent)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=VictorH456&show_icons=true&theme=dark"
