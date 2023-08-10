@@ -17,7 +17,7 @@ Lista de alguns dos meus projetos mais recentes:
 Você pode entrar em contato comigo através das seguintes plataformas:
 
     Email: victorcosta1141@gmail.com
-    LinkedIn: 
+    LinkedIn: https://www.linkedin.com/in/victor-souza-006449194/
     GitHub: VictorH456
 
 Obrigado por visitar meu portfolio!
