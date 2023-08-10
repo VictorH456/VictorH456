@@ -21,21 +21,8 @@ Você pode entrar em contato comigo através das seguintes plataformas:
     LinkedIn: https://www.linkedin.com/in/victor-souza-006449194/
     GitHub: VictorH456
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH456&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH456&layout=compact)](https://github.com/anuraghazra/github-readme-stats icons=true&theme=transparent)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorH456&show_icons=true&theme=transparent)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VictorH456&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VictorH456&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorH456&show_icons=true" />
-</picture>
-
 
 Obrigado por visitar meu portfolio!
