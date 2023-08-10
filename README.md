@@ -22,6 +22,11 @@ Você pode entrar em contato comigo através das seguintes plataformas:
     GitHub: VictorH456
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH456&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/VictorH456">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Username=VictorH456-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Username=VictorH456-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <picture>
   <source
