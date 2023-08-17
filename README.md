@@ -22,5 +22,5 @@ Você pode entrar em contato comigo através das seguintes plataformas:
     GitHub: VictorH456
    
    ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=VictorH456&show_icons=true&theme=transparent)
-   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH456&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH456&layout=compact&theme=transparent)]
 Obrigado por visitar meu portfolio!
