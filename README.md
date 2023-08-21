@@ -1,4 +1,4 @@
-# Victor Hugo Costa
+# Victor Hugo Souza Costa
  
 Este é o meu portfolio pessoal, onde apresento meus projetos e habilidades em desenvolvimento de software.
 
