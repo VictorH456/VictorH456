@@ -10,8 +10,9 @@ Atualmente estou estudando Ciência da Computação na UFRR, com conhecimento em
 
 Lista de alguns dos meus projetos mais recentes:
     
-    Jogo-pedra-papel-e-tesoura-em-python: Um jogo simples de Pedra, Papel e Tesoura.
-    Calculator: Calculator/Calculadora Calculator from 0 to 15 in binary in logisim, in addition to decoding for the lcd.
+    Rpg-em-Java: Um Rpg simples feito utilizando poo.
+    VictorCRyanKGiovanaO_FinalProject_OS_RR_2024: Implementação de uma nova politica background de escalonamento.
+    AOC_3VictorC-RyanKEGiovana_UFRR_2023: Implementação de um processador de 16 bits uni-ciclo utilizando VHDL.
 
 ## Como entrar em contato
 
