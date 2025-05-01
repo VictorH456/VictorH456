@@ -4,7 +4,7 @@ Este é o meu portfolio pessoal, onde apresento meus projetos e habilidades em d
 
 ## Sobre mim
 
-Atualmente estou estudando Ciência da Computação na UFRR, com conhecimento em Python e algum conhecimento em C. Além disso, estou ampliando meus conhecimentos em linguagens como java e C# para atuar como desenvolvedor de jogos. Estou também dedicado a aprender sobre design de jogos, narrativa, jogabilidade e ferramentas de desenvolvimento, como o Unity ou Unreal Engine, além de desenvolver habilidades em inteligência artificial e trabalho em equipe. Acredito que essas habilidades serão fundamentais para realizar minha paixão por criar jogos incríveis.
+Olá! Sou Victor Hugo, estudante de Ciência da Computação na UFRR. Tenho experiência com Python, C e conhecimentos básicos em Java. Atualmente, estou ampliando minhas habilidades em HTML, CSS e JavaScript para fortalecer meu repertório como desenvolvedor. Também estou me dedicando ao estudo de desenvolvimento de jogos, inteligência artificial e Internet das Coisas (IoT), áreas que considero fundamentais para minha trajetória como desenvolvedor.
 
 ## Projetos
 
